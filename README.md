@@ -32,3 +32,6 @@ Contributions are welcome! If you'd like to enhance the app or fix any issues, f
 
 
 *This web app was created by [Sanjay K J]. Feel free to contact me at [sanjaykj0108@gmail.com] for any questions or feedback.*
+
+![image](https://github.com/sanjay-k-j/JavaScript-_Counter_App/assets/79088504/88bf8839-1edd-46f4-bc32-5214e57b3fa5)
+
